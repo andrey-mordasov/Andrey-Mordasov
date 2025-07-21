@@ -3,14 +3,14 @@
 ![Codewars](https://www.codewars.com/users/andrei%20mordasov/badges/large)
 
 
-**Senior Frontend Engineer / Frontend Team Lead**
+**Lead Frontend Engineer / Frontend Team Lead**
 Málaga, Spain • Remote-friendly • [baskin-robins@ya.ru](mailto:baskin-robins@ya.ru) • [LinkedIn](https://www.linkedin.com/in/andrey-mordasov-2b3478132/) | [GitHub](https://github.com/andrey-mordasov)
 
 ---
 
 ## **Professional Summary**
 
-Results-driven Senior Frontend Engineer with 9+ years of experience in developing complex web applications and leading frontend teams in high-impact projects across Europe and the U.S. Proven ability to drive frontend architecture, improve performance, and deliver business-critical features. Adept in Vue.js and React ecosystems, cloud deployment, CI/CD, and mentoring developers. Skilled communicator with strong customer-facing experience.
+Results-driven Lead Frontend Engineer with 9+ years of experience in developing complex web applications and leading frontend teams in high-impact projects across Europe and the U.S. Proven ability to drive frontend architecture, improve performance, and deliver business-critical features. Adept in Vue.js and React ecosystems, cloud deployment, CI/CD, and mentoring developers. Skilled communicator with strong customer-facing experience.
 
 ---
 
